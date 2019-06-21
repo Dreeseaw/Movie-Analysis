@@ -1,5 +1,4 @@
 ## Movie Dataset Analysis
-### William Dreese
 
 Breaks open a movie dataset featuring over 43k movie entries of name, runtime, box office revenue, and movie summary. With some basic machine learning and data science tactics, I find the top 5 genres by projected box office revenue and the most chracteristic words of those genres.
 
